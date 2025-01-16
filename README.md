@@ -1,1 +1,2 @@
 # Real-Time-Object-Detection
+This project involves the development of a real-time object detection system using **YOLOv8** and **OpenCV**. The system detects and classifies objects in live webcam video streams. By processing real-time video input, it identifies various objects, draws **bounding boxes**, and labels them for clear and interactive visualization. This efficient and high-speed detection system is ideal for applications in **surveillance**, **autonomous systems**, and **smart security solutions**.
